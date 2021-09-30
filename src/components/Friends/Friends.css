@@ -1,0 +1,7 @@
+.friends-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 80%;
+    margin-left: 10%;
+    grid-gap: 10px;
+}

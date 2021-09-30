@@ -1,0 +1,19 @@
+.nav-style{
+    background-color: rgb(44, 56, 90);
+    line-height: 70px;
+    text-align: left;
+}
+.nav-style nav .navlink {
+    text-decoration: none;
+    margin: 50px;
+    padding: 3px 15px;
+    border: 2px solid gray;
+    border-radius: 3px;
+    color: white;
+    transition: .6s;
+
+}
+.nav-style nav .navlink:hover{
+    background-color: gray;
+    border: 2px solid white;
+}
